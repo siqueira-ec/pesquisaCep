@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pesquisaCep/static/css/main.c4e208ad.chunk.css",
+    "main.js": "/pesquisaCep/static/js/main.cbb59212.chunk.js",
+    "main.js.map": "/pesquisaCep/static/js/main.cbb59212.chunk.js.map",
+    "runtime-main.js": "/pesquisaCep/static/js/runtime-main.dc751f8f.js",
+    "runtime-main.js.map": "/pesquisaCep/static/js/runtime-main.dc751f8f.js.map",
+    "static/js/2.c04ba422.chunk.js": "/pesquisaCep/static/js/2.c04ba422.chunk.js",
+    "static/js/2.c04ba422.chunk.js.map": "/pesquisaCep/static/js/2.c04ba422.chunk.js.map",
+    "index.html": "/pesquisaCep/index.html",
+    "precache-manifest.584419e3e8500327d6827cd84c4f599d.js": "/pesquisaCep/precache-manifest.584419e3e8500327d6827cd84c4f599d.js",
+    "service-worker.js": "/pesquisaCep/service-worker.js",
+    "static/css/main.c4e208ad.chunk.css.map": "/pesquisaCep/static/css/main.c4e208ad.chunk.css.map",
+    "static/js/2.c04ba422.chunk.js.LICENSE": "/pesquisaCep/static/js/2.c04ba422.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc751f8f.js",
+    "static/js/2.c04ba422.chunk.js",
+    "static/css/main.c4e208ad.chunk.css",
+    "static/js/main.cbb59212.chunk.js"
+  ]
+}
